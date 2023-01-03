@@ -1,0 +1,49 @@
+h2 {
+  color: blueviolet;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  color: blueviolet;
+}
+
+.page-title {
+  font-size: 40px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+#hero {
+  text-align: center;
+  /* text-decoration: underline wavy green; */
+}
+
+.header {
+  /* font-weight: 800; */
+  height: 400px;
+  background-image: url("../images/baby.jpeg");
+  background-repeat: no-repeat;
+  background-size: 10%;
+  background-position: top right;
+  color: blue;
+}
+
+a {
+  /* text-decoration: none; */
+}
+
+span {
+  border: 2px solid purple;
+  margin-top: 50px;
+  /* display: inline-block; */
+  height: 200px;
+  width: 100px;
+}
+
+.Blog {
+  background-color: peru;
+  box-shadow: 10px 10px 10px gray;
+  margin-bottom: 100px;
+}
